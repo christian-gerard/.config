@@ -1,2 +1,2 @@
-# .config
-My Personal Workflow Configuration file
+# Workflow Config Repo
+## NeoVim, ITerm, and more
